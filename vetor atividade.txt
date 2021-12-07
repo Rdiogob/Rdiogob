@@ -1,0 +1,99 @@
+1-
+programa
+{
+	
+	funcao inicio()
+	{
+		real num[5],num2=2.2
+		para(i=0; i<5; i++ ){
+			escreva("entre com o vaor:")
+			leia(valor)
+		}
+	se(num2>num){
+	num2=num
+	
+	}
+	}
+	 
+	escreva("\n + "o mairo valor entre as duas é: " +num+"!+"\n")
+}
+----------------------------//--------------------//-------------------------------------//----------------------------------------//---------------------------------
+2-programa
+{
+	
+	funcao inicio()
+	{
+		real resultado[10]
+		real soma=0.0, maior =0.0 ,media =0.0 ,cont=0.0
+
+		escreva("\n")
+		escreva("laca dados")
+		escreva("\n")
+          para(i=0;lado<10;i++){
+          	escreva("O" + (i+1) +o resultado:)
+          	leia(resultado)
+          	soma=(soma+(resultado)
+
+          	se(maior<resultado){
+          		maior+resultado
+          	}
+           se(resultado>maior){
+           	i++
+           }
+          }
+		media =soma/10
+		 escreva("\n" + o maior valor lancado é : " +maior")
+		 escreva("\n" o numero acima aparece " + 1++ " vezes.)
+		 escreva("\n" a  media a do resultado  dos lancamentos  foi:" +media)
+
+
+----------------------------------///-----------------------------------------------------------//------------------------------------//-------------------------------
+
+3-programa
+{
+	
+	funcao inicio()
+	{
+		inteiro  n1[4][6] ,n2[4][6] ,n3[4][6]
+
+		para(i=0; 1<4; i++){
+			para(c=0; c<6; c++){
+				escreva("digite o valor de n1:")
+				leia([n1[1]][c])
+
+				escreva("digite o valor de n2:")
+				leia(n2[1][c])
+
+				n1[1][c] =n1[1][c]+n2[1][c]
+				n2[1][c]=n1[1][c]-n2[1][c]
+			
+				
+			}
+	
+		}
+		
+	}
+}
+-----------------------------\\---------------------------------------------------------\\-------------------------------\\----------------------------\\\--------------
+4-programa
+{
+	
+	funcao inicio()
+	{
+		real matriz[3][3] , soma =0.0 , mutiplica =0.0
+		para(i=0; i <3; i++){
+		para(c=0; c<3; c++){
+			escreva ("o valor de :" i+1" [c+!]")
+			leia(matriz[i][c])
+
+			se(i=c){
+				soma= +=matriz[i][c]{
+			}
+			
+			
+		}
+		}
+		escreva("a soma da matriz:" = soma)
+		escreva("\n" a soma da matriz "\n")
+	}
+

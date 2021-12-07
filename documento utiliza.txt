@@ -1,0 +1,21 @@
+﻿1
+	funcao inicio()
+	{
+		inteiro mediafilhos, salario, percentual
+		
+          escreva("digite a quantidade do filhos")
+          leia(mediafilhos)
+          escreva("digite o salario da familia")
+          leia(salario)
+          enquanto (salario>0){
+          	totalsalario <- totalsalario + salario
+               totalfilhos <- totalfilhos + filhos
+               totalfamilia <- totalfamilia + 1
+               se (salario > maiorsalario) entao
+               maiorsalario <- salario
+               escreva ("Digite a quantidade de filhos")            
+              leia (filhos)     
+              escreva ("Digite o salário da familia")
+              leia (salario)
+
+          }

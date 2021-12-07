@@ -1,0 +1,78 @@
+1-programa
+{
+	
+	funcao inicio()
+	{
+		inteiro qtddefilhos , totalfilho=0, ate100=0 ,total=0.0 ,media=0,mediasal=0,percentual=0
+		para(contador=0; contador<5; contador++)
+		escreva("\n" + contador +" pessoas:)
+		escreva("\ndigite seu salario>")
+		leia(salario)
+
+		escreva("quantos:")
+		leia(qydfilhos)
+		se(salario>maiorsalario)
+		(maior=salario)
+	}
+	se(<100)
+	ate100+=1)
+	totalfilho+=qtdfilhos
+	totalsalario+=salario
+}
+(media=totalsalario/media=totalfilhos/percentual+ate100/4
+escreva("\nmedia de salario:,medias")
+escreva("\nmedia de filhos:, mediafilhos")
+escreva("\nmaior salario:",mediasalario
+escreva("\npercentual com salario ate 100,00:,percentual))
+	}
+}
+-----------//----//----//------------------------------------------------------------------------------------------------------------------
+2-programa
+{
+	
+	funcao inicio()
+	{
+		real resultado=0 , n
+		para(n=0;n<=500;n++){
+		se(n%3== e  n%2 !=0){
+			resultado =resultado+n
+		}
+	}
+	escreva("o resltado e:"\n",resultado)
+	
+}
+
+----------------------------------------------//----------------------------------------//----------------/------------------------------------------------------------
+3-programa
+{
+	
+	funcao inicio()
+	{
+		real num=233
+		escreva(num,"\n")
+		se(num >= 300 e num<=400){
+		num+=3 
+	}
+		senao (num+=5) { 
+			
+		}
+		enquanto(num<=456)
+	}
+	escreva("digite o resultado") 
+}
+----------------------------------//-----------------------------------------------------//-------------------------------------------------//-----------------------
+4-programa
+{
+	
+	funcao inicio()
+	{
+		inteiro num=7, soma = num
+		 escreva(num," ")
+		 leia(num)
+		 num=-1
+		 soma+=num
+		 enquanto(num>0){
+		 escreva("\n soma equivalente a:"soma,"\n")
+		 
+	}
+}
